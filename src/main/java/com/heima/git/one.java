@@ -8,5 +8,6 @@ public class one {
         System.out.println("hellow,world6");
         System.out.println("hellow,world7");
         System.out.println("hellow,world8");
+        System.out.println("pull hellow,world8");
     }
 }
